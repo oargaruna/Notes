@@ -1,4 +1,4 @@
-# ReadingList
+# Reading List
 
 ## Books
 * Zero to One · Peter Thiel
@@ -16,7 +16,7 @@
 * [RPC] (http://www.ietf.org/rfc/rfc707.txt)
 
 ## Other articles
-* [Typing Quadrant](http://c2.com/cgi/wiki?TypingQuadrant)
+* ~~[Typing Quadrant](http://c2.com/cgi/wiki?TypingQuadrant)~~
 * [Weakly Typed] (http://c2.com/cgi/wiki?WeaklyTyped)
 * [Manifest Typing] (http://c2.com/cgi/wiki?ManifestTyping)
 * [Type Inference] (http://c2.com/cgi/wiki?TypeInference)
