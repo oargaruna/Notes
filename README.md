@@ -6,6 +6,7 @@
 * Refactoring: Improving the Design of Existing Code · Martin Fowler (+ contributors)
 * The Mythical Man-Month · Frederick P. Brooks Jr
 * Continuous Delivery · Jez Humble, David Farley
+* [Programming Languages: Application and Interpretation] (http://cs.brown.edu/courses/cs173/2012/book/) · Shriram Krishnamurthi
 
 ## Research Papers
 * Principled design of the modern Web architecture · Roy T. Fielding, Richard N. Taylor
@@ -16,3 +17,6 @@
 
 ## Other articles
 * [Typing Quadrant](http://c2.com/cgi/wiki?TypingQuadrant)
+* [Weakly Typed] (http://c2.com/cgi/wiki?WeaklyTyped)
+* [Manifest Typing] (http://c2.com/cgi/wiki?ManifestTyping)
+* [Type Inference] (http://c2.com/cgi/wiki?TypeInference)
