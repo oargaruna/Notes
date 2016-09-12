@@ -9,7 +9,7 @@
 * [Programming Languages: Application and Interpretation] (http://cs.brown.edu/courses/cs173/2012/book/) · Shriram Krishnamurthi
 
 ## Specs
-* [JNI](http://docs.oracle.com/javase/7/docs/technotes/guides/jni/spec/jniTOC.html)
+* ~~[JNI](http://docs.oracle.com/javase/7/docs/technotes/guides/jni/spec/jniTOC.html)~~
 * [Unicode](http://unicode.org)
 
 ## Research Papers
