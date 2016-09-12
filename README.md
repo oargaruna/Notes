@@ -10,6 +10,7 @@
 
 ## Specs
 * [JNI](http://docs.oracle.com/javase/7/docs/technotes/guides/jni/spec/jniTOC.html)
+* [Unicode](http://unicode.org)
 
 ## Research Papers
 * Principled design of the modern Web architecture · Roy T. Fielding, Richard N. Taylor
