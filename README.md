@@ -7,6 +7,11 @@
 * The Mythical Man-Month · Frederick P. Brooks, Jr.
 * Continuous Delivery · Jez Humble, David Farley
 * [Programming Languages: Application and Interpretation] (http://cs.brown.edu/courses/cs173/2012/book/) · Shriram Krishnamurthi
+* Thinking, Fast and Slow · Daniel Kahneman
+* The Emperor of Maladies · Siddhartha Mukherjee
+* The Great Gatsby · F. Scott Fitzgerald
+* H is for Hawk Helen · Macdonald
+* The Pity of it All · Amos Elon
 
 ## Specs
 * ~~[JNI](http://docs.oracle.com/javase/7/docs/technotes/guides/jni/spec/jniTOC.html)~~
