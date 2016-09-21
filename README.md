@@ -13,6 +13,9 @@
 * H is for Hawk Helen · Macdonald
 * The Pity of it All · Amos Elon
 
+## Blogs
+* [Terry on Engineering](https://microsoft-my.sharepoint.com/personal/tcrowley_microsoft_com/Blog/Lists/Posts/AllPosts.aspx)
+
 ## Specs
 * ~~[JNI](http://docs.oracle.com/javase/7/docs/technotes/guides/jni/spec/jniTOC.html)~~
 * [Unicode](http://unicode.org)
