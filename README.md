@@ -1,7 +1,7 @@
 # Reading List
 
 ## Books
-* Zero to One · Peter Thiel
+* Zero to One · Peter Thiel wt. Blake Masters
 * The Pragmatic Programmer · Dave Thomas, Andy Hunt
 * Refactoring: Improving the Design of Existing Code · Martin Fowler (+ contributors)
 * The Mythical Man-Month · Frederick P. Brooks, Jr.
@@ -22,6 +22,8 @@
 * [LLVM](http://llvm.org)
 * [GCC](https://gcc.gnu.org)
 * [clang](http://clang.llvm.org)
+* [SMB](https://msdn.microsoft.com/en-us/library/cc246231.aspx)
+* [CIFS](https://msdn.microsoft.com/en-us/library/ee442092.aspx)
 
 ## Research Papers
 * Principled design of the modern Web architecture · Roy T. Fielding, Richard N. Taylor
