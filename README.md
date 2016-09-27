@@ -16,6 +16,9 @@
 ## Blogs
 * [Terry on Engineering](https://microsoft-my.sharepoint.com/personal/tcrowley_microsoft_com/Blog/Lists/Posts/AllPosts.aspx)
 
+## Case Studies
+* Robin Ash and Printzhof Press · HBR
+
 ## Specs
 * [~~JNI~~](http://docs.oracle.com/javase/7/docs/technotes/guides/jni/spec/jniTOC.html)
 * [Unicode](http://unicode.org)
