@@ -1,7 +1,7 @@
 # Reading List
 
 ## Books
-* Zero to One · Peter Thiel wt. Blake Masters
+* ~~Zero to One · Peter Thiel wt. Blake Masters~~
 * The Pragmatic Programmer · Dave Thomas, Andy Hunt
 * Refactoring: Improving the Design of Existing Code · Martin Fowler (+ contributors)
 * The Mythical Man-Month · Frederick P. Brooks, Jr.
@@ -17,7 +17,7 @@
 * [Terry on Engineering](https://microsoft-my.sharepoint.com/personal/tcrowley_microsoft_com/Blog/Lists/Posts/AllPosts.aspx)
 
 ## Specs
-* ~~[JNI](http://docs.oracle.com/javase/7/docs/technotes/guides/jni/spec/jniTOC.html)~~
+* [~~JNI~~](http://docs.oracle.com/javase/7/docs/technotes/guides/jni/spec/jniTOC.html)
 * [Unicode](http://unicode.org)
 * [LLVM](http://llvm.org)
 * [GCC](https://gcc.gnu.org)
