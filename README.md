@@ -2,6 +2,7 @@
 
 ## Books
 * ~~Zero to One · Peter Thiel wt. Blake Masters~~
+* On The Move · Oliver Sacks
 * The Pragmatic Programmer · Dave Thomas, Andy Hunt
 * Refactoring: Improving the Design of Existing Code · Martin Fowler (+ contributors)
 * The Mythical Man-Month · Frederick P. Brooks, Jr.
@@ -30,6 +31,9 @@
 
 ## Research Papers
 * Principled design of the modern Web architecture · Roy T. Fielding, Richard N. Taylor
+* Sitting, Standing, and Walking · M. Kremer
+* Prematurity and Uniqueness in Scientific Discovery · Gunther Stent
+* The Man with a Shattered World · A. R. Luria
 
 ## RFCs
 * [HTTP/1.1](http://www.ietf.org/rfc/rfc2616.txt)
