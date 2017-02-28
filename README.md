@@ -3,6 +3,7 @@
 ## Books
 * ~~Zero to One · Peter Thiel wt. Blake Masters~~
 * ~~On The Move · Oliver Sacks~~
+* Dark Matter and the Dinosaurs · Lisa Randall
 * The Pragmatic Programmer · Dave Thomas, Andy Hunt
 * Refactoring: Improving the Design of Existing Code · Martin Fowler (+ contributors)
 * The Mythical Man-Month · Frederick P. Brooks, Jr.
@@ -13,6 +14,7 @@
 * The Great Gatsby · F. Scott Fitzgerald
 * H is for Hawk Helen · Macdonald
 * The Pity of it All · Amos Elon
+* Wilderness Essays · John Muir
 
 ## Blogs
 * [Terry on Engineering](https://microsoft-my.sharepoint.com/personal/tcrowley_microsoft_com/Blog/Lists/Posts/AllPosts.aspx)
