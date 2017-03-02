@@ -4,17 +4,19 @@
 * ~~Zero to One · Peter Thiel wt. Blake Masters~~
 * ~~On The Move · Oliver Sacks~~
 * Dark Matter and the Dinosaurs · Lisa Randall
+* Walden · Henry David Thoreau
+* The C++ Programming Language · Bjarne Stroustrup
+* Thinking, Fast and Slow · Daniel Kahneman
+* Wilderness Essays · John Muir
 * The Pragmatic Programmer · Dave Thomas, Andy Hunt
 * Refactoring: Improving the Design of Existing Code · Martin Fowler (+ contributors)
 * The Mythical Man-Month · Frederick P. Brooks, Jr.
 * Continuous Delivery · Jez Humble, David Farley
 * [Programming Languages: Application and Interpretation] (http://cs.brown.edu/courses/cs173/2012/book/) · Shriram Krishnamurthi
-* Thinking, Fast and Slow · Daniel Kahneman
 * The Emperor of Maladies · Siddhartha Mukherjee
 * The Great Gatsby · F. Scott Fitzgerald
 * H is for Hawk Helen · Macdonald
 * The Pity of it All · Amos Elon
-* Wilderness Essays · John Muir
 
 ## Blogs
 * [Terry on Engineering](https://microsoft-my.sharepoint.com/personal/tcrowley_microsoft_com/Blog/Lists/Posts/AllPosts.aspx)
