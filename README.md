@@ -3,10 +3,10 @@
 ## Books
 * ~~Zero to One · Peter Thiel wt. Blake Masters~~
 * ~~On The Move · Oliver Sacks~~
-* Dark Matter and the Dinosaurs · Lisa Randall
+* ~~Dark Matter and the Dinosaurs · Lisa Randall~~
+* Thinking, Fast and Slow · Daniel Kahneman
 * Walden · Henry David Thoreau
 * The C++ Programming Language · Bjarne Stroustrup
-* Thinking, Fast and Slow · Daniel Kahneman
 * Wilderness Essays · John Muir
 * The Pragmatic Programmer · Dave Thomas, Andy Hunt
 * Refactoring: Improving the Design of Existing Code · Martin Fowler (+ contributors)
@@ -17,6 +17,7 @@
 * The Great Gatsby · F. Scott Fitzgerald
 * H is for Hawk Helen · Macdonald
 * The Pity of it All · Amos Elon
+* The First Four Minutes · Roger Bannister
 
 ## Blogs
 * [Terry on Engineering](https://microsoft-my.sharepoint.com/personal/tcrowley_microsoft_com/Blog/Lists/Posts/AllPosts.aspx)
