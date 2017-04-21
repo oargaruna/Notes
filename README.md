@@ -44,11 +44,11 @@
 
 ## RFCs
 * [HTTP/1.1](http://www.ietf.org/rfc/rfc2616.txt)
-* [RPC] (http://www.ietf.org/rfc/rfc707.txt)
-* [WebSocket] (https://tools.ietf.org/html/rfc6455)
+* [RPC](http://www.ietf.org/rfc/rfc707.txt)
+* [WebSocket](https://tools.ietf.org/html/rfc6455)
 
 ## Other articles
 * ~~[Typing Quadrant](http://c2.com/cgi/wiki?TypingQuadrant)~~
-* [Weakly Typed] (http://c2.com/cgi/wiki?WeaklyTyped)
-* [Manifest Typing] (http://c2.com/cgi/wiki?ManifestTyping)
-* [Type Inference] (http://c2.com/cgi/wiki?TypeInference)
+* [Weakly Typed](http://c2.com/cgi/wiki?WeaklyTyped)
+* [Manifest Typing](http://c2.com/cgi/wiki?ManifestTyping)
+* [Type Inference](http://c2.com/cgi/wiki?TypeInference)
