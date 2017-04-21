@@ -11,7 +11,7 @@
 * Refactoring: Improving the Design of Existing Code · Martin Fowler (+ contributors)
 * The Mythical Man-Month · Frederick P. Brooks, Jr.
 * Continuous Delivery · Jez Humble, David Farley
-* [Programming Languages: Application and Interpretation] (http://cs.brown.edu/courses/cs173/2012/book/) · Shriram Krishnamurthi
+* [Programming Languages: Application and Interpretation](http://cs.brown.edu/courses/cs173/2012/book/) · Shriram Krishnamurthi
 * The Emperor of Maladies · Siddhartha Mukherjee
 * The Great Gatsby · F. Scott Fitzgerald
 * H is for Hawk Helen · Macdonald
