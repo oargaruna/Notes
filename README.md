@@ -4,11 +4,10 @@
 * ~~Zero to One · Peter Thiel wt. Blake Masters~~
 * ~~On The Move · Oliver Sacks~~
 * ~~Dark Matter and the Dinosaurs · Lisa Randall~~
-* Thinking, Fast and Slow · Daniel Kahneman
 * Walden · Henry David Thoreau
+* The Pragmatic Programmer · Dave Thomas, Andy Hunt
 * The C++ Programming Language · Bjarne Stroustrup
 * Wilderness Essays · John Muir
-* The Pragmatic Programmer · Dave Thomas, Andy Hunt
 * Refactoring: Improving the Design of Existing Code · Martin Fowler (+ contributors)
 * The Mythical Man-Month · Frederick P. Brooks, Jr.
 * Continuous Delivery · Jez Humble, David Farley
@@ -18,6 +17,8 @@
 * H is for Hawk Helen · Macdonald
 * The Pity of it All · Amos Elon
 * The First Four Minutes · Roger Bannister
+* Thinking in C++ Vol. 2
+* Thinking, Fast and Slow · Daniel Kahneman
 
 ## Blogs
 * [Terry on Engineering](https://microsoft-my.sharepoint.com/personal/tcrowley_microsoft_com/Blog/Lists/Posts/AllPosts.aspx)
@@ -39,6 +40,7 @@
 * Sitting, Standing, and Walking · M. Kremer
 * Prematurity and Uniqueness in Scientific Discovery · Gunther Stent
 * The Man with a Shattered World · A. R. Luria
+* Integrity: A Positive Model that Incorporates the Normative Phenomena of Morality, Ethics and Legality · Michael Jensen, Werner Erhard, Steve Zaffron
 
 ## RFCs
 * [HTTP/1.1](http://www.ietf.org/rfc/rfc2616.txt)
