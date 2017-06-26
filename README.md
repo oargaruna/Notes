@@ -19,8 +19,7 @@
 * The First Four Minutes · Roger Bannister
 * Thinking in C++ Vol. 2
 * Thinking, Fast and Slow · Daniel Kahneman
-* The Shape of Content (Charles Eliot Norton Lectures) · Ben Shahn
-* In Their Lives: Great Writers on Great Beatles Songs · Andrew Blauner
+* 10% Happier · Dan Harris
 
 ## Blogs
 * [Terry on Engineering](https://microsoft-my.sharepoint.com/personal/tcrowley_microsoft_com/Blog/Lists/Posts/AllPosts.aspx)
