@@ -20,6 +20,7 @@
 * Thinking in C++ Vol. 2
 * Thinking, Fast and Slow · Daniel Kahneman
 * 10% Happier · Dan Harris
+* Edit
 
 ## Blogs
 * [Terry on Engineering](https://microsoft-my.sharepoint.com/personal/tcrowley_microsoft_com/Blog/Lists/Posts/AllPosts.aspx)
