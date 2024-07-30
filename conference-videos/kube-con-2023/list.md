@@ -1,17 +1,17 @@
 # Videos
 
-_Schedule (North America): https://kccncna2023.sched.com/_
-_Schedule (Europe): https://kccnceu2023.sched.com/_
+*Schedule (North America): https://kccncna2023.sched.com/*<br/>
+*Schedule (Europe): https://kccnceu2023.sched.com/*
 
 ## Tutorial: Getting Familiar with Security Observability Using eBPF & Cilium Tetragon - Holmes & Cooley
-_YouTube: https://www.youtube.com/watch?v=kTGU-Nc2Db0_
+*YouTube: https://www.youtube.com/watch?v=kTGU-Nc2Db0*
 
 - [Isovalent Tetragon Lab](https://isovalent.com/labs/tetragon-getting-started/)
 - Seccomp policies are applied to an application before it starts. Any updates to the policy requires application restart to get applied.
 - Since Tetragon uses eBPF the policy can change dynamically.
 
 ## Eraser: Cleaning up Vulnerable Images from Kubernetes Nodes - Peter Engelbert & Ashna Mehrotra
-_YouTube: https://www.youtube.com/watch?v=LjDzn7qI5SE_
+*YouTube: https://www.youtube.com/watch?v=LjDzn7qI5SE*
 
 - [GitHub - eraser-dev/eraser](https://github.com/eraser-dev/eraser)
 - [Documentation](https://eraser-dev.github.io/eraser/docs/quick-start)
@@ -21,4 +21,17 @@ _YouTube: https://www.youtube.com/watch?v=LjDzn7qI5SE_
 - Why is it not enabled for Windows nodes?
 - One pod per node - Can be run manually or on schedule.
 - Each pod has three containers: collector, scanner, remover. They communicate through shared filesystem and named pipes.
-- 
+
+## Journey Through Time: Understanding Etcd Revisions and Resource Versions in Kubernetes - Priyanka Saggu
+*YouTube: https://www.youtube.com/watch?v=i7RCoEjAMOo*
+
+- etcd - A distributed, reliable key-value store for the critical data in a distributed system.
+- etcd revisions are snapshots of the object state in the KV-store.
+- Revisions are stored as KV-pair themselves. Key is the revision/sub-revision and value is the data being modified.
+- Each CRUD op on a KV-pair updates the revision number on etcd. Also the same revision number is saved to the KV-pair being modified.
+- Deletion adds a 'tombstone' to the KV-pair. Value is still present, but not returned when queried.
+- etcd compaction removes tombstoned revisions.
+- etcd Keys for K8s information is a path: '/registry/<obj-type>/<namespace>' e.g. '/registry/deployments/default'.
+- etcd (mod_revision) == K8s object (ResourceVersion). mod_revision is always incrementing with the etcd revision, so it's unique across deletions.
+- Further watching: [Leipzig Gophers #19: A Journey into the Kubernetes ListerWatcher Rabbit Hole
+](https://www.youtube.com/watch?v=Z9fwIzy0C_8)
