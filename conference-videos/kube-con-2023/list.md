@@ -35,3 +35,15 @@
 - etcd (mod_revision) == K8s object (ResourceVersion). mod_revision is always incrementing with the etcd revision, so it's unique across deletions.
 - Further watching: [Leipzig Gophers #19: A Journey into the Kubernetes ListerWatcher Rabbit Hole
 ](https://www.youtube.com/watch?v=Z9fwIzy0C_8)
+
+## Running Not Root Made Easy - Luboslav Pivarc, Red Hat
+*YouTube: https://www.youtube.com/watch?v=3Ic1w-jAaQY*
+
+- kubevirt - Run VMs inside Pods as regular workloads.
+- root in container is root on the host.
+- K8s doesn't support user namespaces?
+- Access control is baked into container images.
+- Map volume mounts to required folder paths for the container, rather than give it access to the host file-system. However, mounting an existing path will result in data being overwritten.
+- [dive](https://github.com/wagoodman/dive) helps you analyze the filesystem for any container image.
+- DOCKERFILE RUN creates a new layer.
+- Adding capability to K8s YAML does not work out of box. We need to explicitly request the Kernel to give it.
