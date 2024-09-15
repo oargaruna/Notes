@@ -47,3 +47,13 @@
 - [dive](https://github.com/wagoodman/dive) helps you analyze the filesystem for any container image.
 - DOCKERFILE RUN creates a new layer.
 - Adding capability to K8s YAML does not work out of box. We need to explicitly request the Kernel to give it.
+
+## Zero Privilege Architectures - Thijs Ebbers & Diana Iordan, ING
+*YouTube: https://www.youtube.com/watch?v=CPh5RsSv8cI*
+
+- Runtime workloads are immutable.
+- CI/CD pipelines are the only way to deploy changes. CI/CD pipelines need to be efficient and fast.
+- Breakglass a/c to be configured only for select few.
+- [CISA Director Jen Easterly Lecture and Fireside Chat](https://www.cisa.gov/securebydesign/dir-easterly-remarks-carnegie-mellon-university)
+    - [Video](https://www.kaltura.com/index.php/extwidget/preview/partner_id/2612992/uiconf_id/49325582/entry_id/1_s80j6o80/embed/dynamic)
+- ![zero-privilege-architecture-conceptual](../../images/zero-privilege-architecture-conceptual.png)
