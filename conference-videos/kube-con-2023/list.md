@@ -54,6 +54,6 @@
 - Runtime workloads are immutable.
 - CI/CD pipelines are the only way to deploy changes. CI/CD pipelines need to be efficient and fast.
 - Breakglass a/c to be configured only for select few.
-- [CISA Director Jen Easterly Lecture and Fireside Chat](https://www.cisa.gov/securebydesign/dir-easterly-remarks-carnegie-mellon-university)
+- [27th Feb, 2023 - CISA Director Jen Easterly Lecture and Fireside Chat](https://www.cisa.gov/securebydesign/dir-easterly-remarks-carnegie-mellon-university)
     - [Video](https://www.kaltura.com/index.php/extwidget/preview/partner_id/2612992/uiconf_id/49325582/entry_id/1_s80j6o80/embed/dynamic)
 - ![zero-privilege-architecture-conceptual](../../images/zero-privilege-architecture-conceptual.png)
