@@ -8,3 +8,4 @@
 - [How Linux Works, 3rd Edition - Brian Ward](https://www.amazon.in/dp/1718500408)
 - [The Witcher: Baptism of Fire - Andrzej Sapkowski](https://www.amazon.in/dp/1399611100)
 - [The Witcher: The Tower of the Swallow - Andrzej Sapkowski](https://www.amazon.in/dp/1399611119)
+- [The Witcher: The Lady of the Lake - Andrzej Sapkowski](https://www.amazon.in/dp/1399611119)

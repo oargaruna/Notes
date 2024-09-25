@@ -33,8 +33,7 @@
 - etcd compaction removes tombstoned revisions.
 - etcd Keys for K8s information is a path: '/registry/<obj-type>/<namespace>' e.g. '/registry/deployments/default'.
 - etcd (mod_revision) == K8s object (ResourceVersion). mod_revision is always incrementing with the etcd revision, so it's unique across deletions.
-- Further watching: [Leipzig Gophers #19: A Journey into the Kubernetes ListerWatcher Rabbit Hole
-](https://www.youtube.com/watch?v=Z9fwIzy0C_8)
+- Further watching: [Leipzig Gophers #19: A Journey into the Kubernetes ListerWatcher Rabbit Hole](https://www.youtube.com/watch?v=Z9fwIzy0C_8)
 
 ## Running Not Root Made Easy - Luboslav Pivarc, Red Hat
 *YouTube: https://www.youtube.com/watch?v=3Ic1w-jAaQY*
