@@ -1,6 +1,5 @@
 # List
 
-<<<<<<< HEAD
 - [The Emperor of All Maladies : A Biography of Cancer - Siddhartha Mukherjee](https://www.amazon.in/dp/0007250924)
 - [Pachinko - Min Jin Lee](https://www.amazon.in/dp/1838930507)
 - [Code Breaker - Walter Isaacson](https://www.amazon.in/dp/1982115858)
@@ -8,6 +7,4 @@
 - [Palestine - Joe Sacco](https://www.amazon.in/dp/0224069829)
 - [Batman: The Court of Owls - Scott Snyder, Greg Capullo](https://www.amazon.in/dp/1779527276)
 - [Deadpool Kills The Marvel Universe Omnibus - Cullen Bunn (Author), Dalibor Talajic (Illustrator), Salvador Espin (Illustrator)](https://www.amazon.in/dp/1846539870)
-=======
 - [300 - Frank Miller and Lynn Varley](https://www.amazon.in/dp/1569714029)
->>>>>>> b240dbb1e4c341f6566e037bf4573cb58d73c5ca
